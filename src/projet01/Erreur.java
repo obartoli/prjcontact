@@ -1,0 +1,5 @@
+package projet01;
+
+public enum Erreur {
+	TAILLE, SEXE, TELEPHONE, SIUTATION_FAMILIALE, AGE, MAIL, ENTREPRISE, ANCIENNETE, DATE
+}
